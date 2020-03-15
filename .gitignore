@@ -1,3 +1,4 @@
+target/
 /jms-sample/target
 /simple-test-application/target
 /simple-test-application-withborkker/activemq-data
